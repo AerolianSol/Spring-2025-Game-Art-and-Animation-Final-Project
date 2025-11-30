@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Boundaries
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backmost Mountains
+    uniqueID: 1544578569
+    locked: 0
+  - name: Middlemost Mountains
+    uniqueID: 163791399
+    locked: 0
+  - name: Foremost Mountains
+    uniqueID: 1643828103
+    locked: 0
+  - name: Background Trees
+    uniqueID: 2948236695
+    locked: 0
+  - name: Foreground
+    uniqueID: 3016110625
+    locked: 0
+  - name: Clouds
+    uniqueID: 3893825675
+    locked: 0
+  - name: Crate
+    uniqueID: 340995923
+    locked: 0
+  - name: Character
+    uniqueID: 3585051615
+    locked: 0
+  m_RenderingLayers:
+  - Default
